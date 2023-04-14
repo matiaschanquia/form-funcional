@@ -54,9 +54,7 @@ body {
 }
 
 .form {
-    border: 1px solid #CDB4DB;
     border-radius: 20px;
-    padding: 0 10px 10px 10px;
 }
 
 .form > p {
